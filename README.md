@@ -1,6 +1,6 @@
 # Enhanced YOLOv8 Object Detection and U-Net Segmentation
 
-##Developers
+## Developers
 [Waseem Akhtar](https://github.com/waseem087)
 
 [Naveed Ahmed](https://github.com/NaveedAhmed5)
